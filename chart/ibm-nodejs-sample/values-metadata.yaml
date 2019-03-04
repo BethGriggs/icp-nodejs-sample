@@ -15,7 +15,7 @@ image:
       label: "Image tag"
       description: "Determines the Node.js version this sample is built upon"
       options: 
-      - label: "Node.js 8"
+      - label: "Node.js 10"
         value: "10"
       - label: "Node.js 8"
         value: "8"
